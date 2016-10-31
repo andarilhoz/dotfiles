@@ -16,7 +16,7 @@ call vundle#begin()
   Plugin 'vim-airline/vim-airline-themes' "Tema pra barra de status
   Plugin 'scrooloose/nerdTree' "Gerenciador de arquivos
   Plugin 'skammer/vim-css-color' "Cor css
-  
+  Plugin 'leafgarland/typescript-vim' "typescript syntax  
  colorscheme termschool
   
 
