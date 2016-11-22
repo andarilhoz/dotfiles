@@ -17,6 +17,7 @@ call vundle#begin()
   Plugin 'scrooloose/nerdTree' "Gerenciador de arquivos
   Plugin 'skammer/vim-css-color' "Cor css
   Plugin 'leafgarland/typescript-vim' "typescript syntax  
+  Plugin 'wakatime/vim-wakatime' " wakatime
  colorscheme termschool
   
 
